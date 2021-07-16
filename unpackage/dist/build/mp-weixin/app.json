@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/exam/exam",
+    "pages/search/search",
+    "pages/news/news",
+    "pages/imgdetect/imgdetect",
+    "pages/banner/banner"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "垃圾分类",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#14b5ff",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/weibiaoti1.png",
+        "selectedIconPath": "static/weibiaoti12.png",
+        "text": "主页"
+      },
+      {
+        "pagePath": "pages/exam/exam",
+        "iconPath": "static/ceshi.png",
+        "selectedIconPath": "static/ceshi2.png",
+        "text": "测试"
+      },
+      {
+        "pagePath": "pages/news/news",
+        "iconPath": "static/xinwen.png",
+        "selectedIconPath": "static/xinwen2.png",
+        "text": "新闻"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}

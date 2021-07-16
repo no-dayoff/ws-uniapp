@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "随堂测试",
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-top-tips": "/uview-ui/components/u-top-tips/u-top-tips",
+    "u-notice-bar": "/uview-ui/components/u-notice-bar/u-notice-bar",
+    "u-table": "/uview-ui/components/u-table/u-table",
+    "u-tr": "/uview-ui/components/u-tr/u-tr",
+    "u-th": "/uview-ui/components/u-th/u-th",
+    "u-td": "/uview-ui/components/u-td/u-td",
+    "u-tabbar": "/uview-ui/components/u-tabbar/u-tabbar"
+  }
+}

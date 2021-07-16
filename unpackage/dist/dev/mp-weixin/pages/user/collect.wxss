@@ -1,0 +1,36 @@
+
+.star-card{
+	width: 100vw;
+	height: 15vh;
+	background-color: #da7f7f;
+	border: groove 1px rgba(99,94,94,0.2);
+	position: relative;
+}
+.trash-name{
+	font-size: 30px;
+	color: white;
+	font-weight: 600;
+	padding-left: 20px;
+}
+.trash-type{
+	color: white;
+	padding: 10px 20px;
+	font-size: large;
+	font-weight: 100;
+}
+.city-name{
+	color: white;
+	position: absolute;
+	right: 4%;
+	bottom: 10%;
+	font-size: 12px;
+}
+.none{
+	position: absolute;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	top: 0;
+	margin: auto;
+}
+

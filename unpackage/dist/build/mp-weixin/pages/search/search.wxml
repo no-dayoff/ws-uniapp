@@ -1,0 +1,1 @@
+<view><a-search-list vue-id="50cad900-1" placeholder="{{defaultKw}}" kwList="{{kwList}}" hotKwList="{{hotKwList}}" data-event-opts="{{[['^clearkwList',[['clearkwList']]],['^setListByKw',[['setListByMap']]],['^doSearch',[['doSearch']]]]}}" bind:clearkwList="__e" bind:setListByKw="__e" bind:doSearch="__e" bind:__l="__l"></a-search-list></view>

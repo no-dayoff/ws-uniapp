@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "a-search": "/components/ay-search/ay-search-top"
+  }
+}

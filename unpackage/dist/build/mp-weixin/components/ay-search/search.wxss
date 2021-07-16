@@ -1,0 +1,6 @@
+view,
+input{box-sizing:border-box}.search-box{width:100%;position:relative}.search-box input::-webkit-input-placeholder,
+.search-box textarea::-webkit-input-placeholder{color:#303133;font-size:18px}.search-box input:-moz-placeholder,
+.search-box textarea:-moz-placeholder{color:#303133;font-size:18px}.search-box input::-moz-placeholder,
+.search-box textarea::-moz-placeholder{color:#303133;font-size:18px}.search-box input:-ms-input-placeholder,
+.search-box textarea:-ms-input-placeholder{color:#303133;font-size:18px}.search-box .search-input-icon{position:absolute;top:34rpx;left:56rpx}.search-box .search-to-more{position:absolute;top:28rpx;right:20rpx;font-size:48rpx}.search-box .icon-sousuo{font-size:40rpx;color:#999}.search-box .search-input{font-weight:400;-webkit-box-flex:1;-webkit-flex:1;flex:1;height:72rpx;line-height:72rpx;padding-left:100rpx;font-size:26rpx;border-radius:20px;background:#f0f0f0}

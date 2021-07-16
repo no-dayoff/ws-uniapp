@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/city/city",
+    "pages/index/index",
+    "pages/exam/exam",
+    "pages/search/search",
+    "pages/news/news",
+    "pages/imgdetect/imgdetect",
+    "pages/banner/banner",
+    "pages/user/user",
+    "pages/user/setting",
+    "pages/user/history",
+    "pages/user/collect",
+    "pages/user/notes",
+    "pages/news/newsDetail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "垃圾分类",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#14b5ff",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "指南"
+      },
+      {
+        "pagePath": "pages/exam/exam",
+        "text": "测试"
+      },
+      {
+        "pagePath": "pages/city/city",
+        "text": "主页"
+      },
+      {
+        "pagePath": "pages/news/news",
+        "text": "知识"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap72.json"
+}

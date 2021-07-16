@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "图像识别",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-top-tips": "/uview-ui/components/u-top-tips/u-top-tips",
+    "uni-file-picker": "/uni_modules/uni-file-picker/components/uni-file-picker/uni-file-picker",
+    "u-popup": "/uview-ui/components/u-popup/u-popup",
+    "u-radio-group": "/uview-ui/components/u-radio-group/u-radio-group",
+    "u-radio": "/uview-ui/components/u-radio/u-radio"
+  }
+}

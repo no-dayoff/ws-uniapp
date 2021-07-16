@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "u-top-tips": "/uview-ui/components/u-top-tips/u-top-tips",
+    "u-icon": "/uview-ui/components/u-icon/u-icon",
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar",
+    "u-cell-group": "/uview-ui/components/u-cell-group/u-cell-group",
+    "u-cell-item": "/uview-ui/components/u-cell-item/u-cell-item",
+    "u-tabbar": "/uview-ui/components/u-tabbar/u-tabbar"
+  }
+}

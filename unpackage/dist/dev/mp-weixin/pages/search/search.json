@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "垃圾搜索",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "a-search-list": "/components/ay-search/ay-search-list"
+  }
+}

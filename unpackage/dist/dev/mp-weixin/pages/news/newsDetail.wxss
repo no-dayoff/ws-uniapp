@@ -1,0 +1,35 @@
+
+view {
+	font-size: 28rpx;
+	line-height: 1.8;
+}
+.article-meta {
+	padding: 20rpx 40rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	        justify-content: flex-start;
+	color: gray;
+}
+.article-text {
+	font-size: 26rpx;
+	line-height: 50rpx;
+	margin: 0 20rpx;
+}
+.article-author,
+.article-time {
+	font-size: 30rpx;
+}
+.article-content {
+	padding: 0 30rpx;
+	overflow: hidden;
+	font-size: 30rpx;
+	margin-bottom: 30rpx;
+}
+

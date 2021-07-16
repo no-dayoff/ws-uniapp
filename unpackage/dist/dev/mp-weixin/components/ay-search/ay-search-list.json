@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-modal": "/uview-ui/components/u-modal/u-modal",
+    "u-loadmore": "/uview-ui/components/u-loadmore/u-loadmore",
+    "u-tag": "/uview-ui/components/u-tag/u-tag",
+    "a-search": "/components/ay-search/ay-search-top"
+  }
+}

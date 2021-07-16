@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "设置",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-top-tips": "/uview-ui/components/u-top-tips/u-top-tips",
+    "u-index-list": "/uview-ui/components/u-index-list/u-index-list",
+    "u-index-anchor": "/uview-ui/components/u-index-anchor/u-index-anchor"
+  }
+}

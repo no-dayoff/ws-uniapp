@@ -1,0 +1,161 @@
+
+.text-line {
+	text-decoration: line-through;
+	color: rgba(255, 0, 0, 0.62);
+}
+.text-yes {
+	font-weight: 600;
+	color: rgba(81, 113, 204, 1);
+}
+.text-bold {
+	font-weight: 600;
+}
+.highlight {
+	font-size: 60rpx;
+	font-weight: 600;
+	color: #fa3534;
+}
+.title {
+	font-size: 18px;
+	/* font-weight: 100; */
+	padding: 20rpx;
+}
+.num {
+	font-size: 55rpx;
+	color: #fa3534;
+}
+.tips-num {
+	font-size: 30rpx;
+	font-weight: 400;
+	text-align: center;
+	display: block;
+	color: #82848A;
+	margin-top: 60rpx;
+	position: absolute;
+	bottom: 30%;
+	left: 50%;
+	margin-left: -37px;
+}
+.btn-list {
+	margin: 60rpx;
+	position: absolute;
+	top: 4%
+}
+.btn-list .btn-select {
+	margin: 40px;
+	padding: 8px 0;
+	width: 250px;
+	border-radius: 80px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: 600;
+	color: white;
+	position: relative;
+}
+.btn-list .btn-select:active {
+	-webkit-transition: 0.15s top linear;
+	transition: 0.15s top linear;
+	top: 3px;
+	text-shadow: 0 1px 1px rgba(255, 255, 255, 0.3);
+	/* color: #393939; */
+}
+.btn-list .btn-select:nth-child(1) {
+	background: -webkit-linear-gradient(left, #6acf0c 0, #44bc58 100%);
+	background: linear-gradient(to right, #6acf0c 0, #44bc58 100%);
+	/* box-shadow: 0 5px 10px rgba(159, 255, 5, 0.2); */
+	box-shadow: 0 7px 0 #03be61, 0 8px 3px rgba(0, 0, 0, 0.3);
+}
+.btn-list .btn-select:nth-child(1):active {
+	box-shadow: 0 2px 0 #119107, 0 3px 3px rgba(0, 0, 0, 0.2);
+}
+.btn-list .btn-select:nth-child(2) {
+	background: -webkit-linear-gradient(left, #f07d17 0, #ffae12 100%);
+	background: linear-gradient(to right, #f07d17 0, #ffae12 100%);
+	/* box-shadow: 0 5px 10px rgba(255,111,0,.25); */
+	box-shadow: 0 7px 0 #d58f02, 0 8px 3px rgba(0, 0, 0, 0.3);
+}
+.btn-list .btn-select:nth-child(2):active {
+	box-shadow: 0 2px 0 #bec70e, 0 3px 3px rgba(0, 0, 0, 0.2);
+}
+.btn-list .btn-select:nth-child(3) {
+	background: -webkit-linear-gradient(left, #3a8cf0 0, #859bff 100%);
+	background: linear-gradient(to right, #3a8cf0 0, #859bff 100%);
+	/* box-shadow: 0 5px 10px rgba(5, 214, 255, 0.2); */
+	box-shadow: 0 7px 0 #0880d7, 0 8px 3px rgba(0, 0, 0, 0.3);
+}
+.btn-list .btn-select:nth-child(3):active {
+	box-shadow: 0 2px 0 #0662a6, 0 3px 3px rgba(0, 0, 0, 0.2);
+}
+.btn-list .btn-select:nth-child(4) {
+	background: -webkit-linear-gradient(left, #f01f5e 0, #ff73ab 100%);
+	background: linear-gradient(to right, #f01f5e 0, #ff73ab 100%);
+	/* box-shadow: 0 5px 10px rgba(255, 8, 140, 0.2); */
+	box-shadow: 0 7px 0 #d7004b, 0 8px 3px rgba(0, 0, 0, 0.3);
+}
+.btn-list .btn-select:nth-child(4):active {
+	box-shadow: 0 2px 0 #a60a46, 0 3px 3px rgba(0, 0, 0, 0.2);
+}
+.res-table {
+	margin: 40rpx;
+}
+.res-title {
+	font-weight: 600;
+	font-size: 58rpx;
+	text-align: center;
+	margin-top: 5px;
+}
+.res-score {
+	font-size: 58rpx;
+	font-weight: 600;
+	text-align: center;
+	color: rgba(255, 0, 0, 0.65);
+	margin-top: 10rpx;
+}
+.remake-btn {
+	text-align: center;
+	background-image: -webkit-linear-gradient(left, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+	background-image: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+	background-size: 400%;
+	-webkit-animation: show 24s linear infinite;
+	        animation: show 24s linear infinite;
+	width: 140px;
+	height: 40px;
+	border-radius: 40px;
+	padding: 0;
+	margin: 0 auto;
+	font-size: 20px;
+	color: black;
+	line-height: 40px;
+	/* font-weight: 100; */
+	box-shadow: 4px 5px 10px rgba(197, 197, 197, 0.8);
+}
+.remake-btn:nth-child(2) {
+	color: white;
+	font-weight: 600;
+	background-image: -webkit-linear-gradient(left, #30b57b, #5185bc, #2778a2, #30b59b);
+	background-image: linear-gradient(90deg, #30b57b, #5185bc, #2778a2, #30b59b);
+	-webkit-animation: show 24s linear infinite;
+	        animation: show 24s linear infinite;
+}
+.bot-botton {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+@-webkit-keyframes show {
+0% {
+		background-position: 0%;
+}
+100% {
+		background-position: 400%;
+}
+}
+@keyframes show {
+0% {
+		background-position: 0%;
+}
+100% {
+		background-position: 400%;
+}
+}
+

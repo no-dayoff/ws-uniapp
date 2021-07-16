@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "u-top-tips": "/uview-ui/components/u-top-tips/u-top-tips",
+    "u-notice-bar": "/uview-ui/components/u-notice-bar/u-notice-bar",
+    "u-loadmore": "/uview-ui/components/u-loadmore/u-loadmore",
+    "u-tabbar": "/uview-ui/components/u-tabbar/u-tabbar",
+    "search": "/components/ay-search/search"
+  }
+}
